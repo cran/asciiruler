@@ -1,0 +1,13 @@
+9e8a19c0367edbb39368b42f42f79afb *DESCRIPTION
+d32239bcb673463ab874e80d47fae504 *LICENSE
+c5ba24e2ca066d69c6b55fdf80c6552d *NAMESPACE
+9b93ce1c07ad384ffa8a9987b7a97e9b *NEWS.md
+8831e3293f425197c2a66df7c9d64056 *R/asciiruler.R
+69f8dd9a58412e6193f68e448e353d9c *README.md
+6c23796976a672213ab5fe60dedc3481 *man/asciiruler.Rd
+9bbb94fbb1a4ae483be59b97ed6bd895 *man/genbank_seqblock.Rd
+6af72cfbab9a40890a98ea0220e83978 *man/print.asciiruler.Rd
+7aac5e318f804112f7dcf3857159abc2 *man/width.Rd
+f2213629a51ca4223e0047eebb6a91c0 *tests/testthat.R
+f554184115887433461b5dffdd0c50c0 *tests/testthat/test_asciiruler.R
+ebeb89f1cd93f0265561b7a61fe77981 *tests/testthat/test_genbank.R
